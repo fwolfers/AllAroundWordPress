@@ -1,4 +1,4 @@
 AllAroundWordPress
 ==================
 
-Links for to Wordpress Tutorials etc.
+Links to Wordpress Tutorials etc.
