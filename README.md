@@ -10,8 +10,8 @@ Links to Wordpress Tutorials etc.
 Sub-heading
 -----------
 
-* [Add Mixcloud oEmbed support to](http://hasin.me/2013/10/26/improving-ux-in-the-wordpress-admin-panel-with-interactive-meta-boxes/) Wordpress](http://www.iwebcontrol.co.uk/2013/01/add-mixcloud-oembed-support-to-wordpress/)
-* [Using Wordpress 3.8 Icons for Custom Post Types in Admin]
+* [Add Mixcloud oEmbed support to Wordpress](http://www.iwebcontrol.co.uk/2013/01/add-mixcloud-oembed-support-to-wordpress/)
+* [Using Wordpress 3.8 Icons for Custom Post Types in Admin](http://mannieschumpert.com/blog/using-wordpress-3-8-icons-custom-post-types-admin-menu/)
 * [Interacive Metaboxes for WP Admin](http://hasin.me/2013/10/26/improving-ux-in-the-wordpress-admin-panel-with-interactive-meta-boxes/)
 * [Wordpress Security](http://hasin.me/2013/10/26/improving-ux-in-the-wordpress-admin-panel-with-interactive-meta-boxes/)
 * [SVG Files: from illustrator to web](http://hasin.me/2013/10/26/improving-ux-in-the-wordpress-admin-panel-with-interactive-meta-boxes/)
