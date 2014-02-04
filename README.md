@@ -76,7 +76,7 @@ SOUNDCLOUD
 MIXCLOUD
 --------
 
-*[Mixcloud Ruby Wrapper](https://github.com/actfong/mixcloud/)
+* [Mixcloud Ruby Wrapper](https://github.com/actfong/mixcloud/)
 
 AJAX LOAD
 ---------
