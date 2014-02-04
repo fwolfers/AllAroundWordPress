@@ -4,8 +4,30 @@ AllAroundWordPress
 Links to Wordpress Tutorials etc.
 ================================
 
+* [TEMPLATE HIERACHY](http://codex.wordpress.org/Template_Hierarchy)
+* [WP_QUERY /custom select query](http://codex.wordpress.org/Displaying_Posts_Using_a_Custom_Select_Query)
+
 * [BRAD FROST RESPONSIVE RESOURCES](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [ATOMIC DESIGN](http://bradfrost.github.io/this-is-responsive/resources.html)
+
+CSS
+---
+
+* [CSS Regions and Edge Reflow](http://elliotjaystocks.com/blog/css-regions-and-edge-reflow/)
+* [The NamedFlow interface](http://dev.w3.org/csswg/css-regions/#the-namedflow-interface)
+
+
+WP-tuts
+-------
+
+* [A Guide to WordPress Custom Post Types: Taxonomies, Admin Columns, Filters and Archives](http://wp.tutsplus.com/tutorials/plugins/a-guide-to-wordpress-custom-post-types-taxonomies-admin-columns-filters-and-archives/)
+* [Getting Loopy – Ajax Powered Loops with jQuery and WordPress](http://wp.tutsplus.com/tutorials/getting-loopy-ajax-powered-loops-with-jquery-and-wordpress/)
+* 
+
+Categoriess
+-----------
+
+*[Category Functions for WordPress](http://perishablepress.com/category-functions-wordpress/)
 
 Sub-heading
 -----------
@@ -16,12 +38,13 @@ Sub-heading
 * [Wordpress Security](http://hasin.me/2013/10/26/improving-ux-in-the-wordpress-admin-panel-with-interactive-meta-boxes/)
 * [SVG Files: from illustrator to web](http://hasin.me/2013/10/26/improving-ux-in-the-wordpress-admin-panel-with-interactive-meta-boxes/)
 
+* [Display popular posts by view](http://www.wpbeginner.com/wp-tutorials/how-to-track-popular-posts-by-views-in-wordpress-without-a-plugin/)
 
 * [jQuery change to massively speed up event delegation heavy sites](https://github.com/josh/jquery-selector-set)
 
 * [fitvid.js](https://github.com/davatron5000/FitVids.js)
 * [jPages.js](http://luis-almeida.github.io/jPages/table.html)
-
+* [nProgress.js (youtube like load)](http://ricostacruz.com/nprogress/)
 
 * [imageMagicks: How to create progressive JPGs](https://coderwall.com/p/ryzmaa)
 
@@ -33,22 +56,45 @@ Sub-heading
 SOUNDCLOUD
 ----------
 
+* [Stratus Soundcloud player](http://takingbytes.com/using-soundclouds-stratus-player-with-a-responsive-website/)
 * [Soundcloud embend player](view-source:http://www.kelis-official.com/)
 
+MIXCLOUD
+--------
 
+*[Mixcloud Ruby Wrapper](https://github.com/actfong/mixcloud/)
 
 AJAX LOAD
 ---------
+
+*[Ajax for the LOOP (Video)](http://blip.tv/wptuts/getting-loopy-ajax-powered-loops-with-jquery-and-wordpress-5805465)
+*[AJAX-ifying WordPress – Creating a one-page experience with WordPress](http://elikirk.com/2012/12/28/ajax-ifying-wordpress-creating-a-one-page-experience-with-wordpress/)
+* [doing ajax in wordpress](http://micahwood.me/doing-ajax-in-wordpress/)
+* [Ajax Load More Posts in Category Page](http://wordpress.stackexchange.com/questions/101184/ajax-load-more-posts-in-category-page)
+* [How to use ajax in wordpress (smashingmag)](http://wp.smashingmagazine.com/2011/10/18/how-to-use-ajax-in-wordpress/)
 * [wp-load-more.js](https://github.com/tokmak/wp-load-more-ajax)
 * [load next wordpress post with ajax](http://www.problogdesign.com/wordpress/load-next-wordpress-posts-with-ajax/)
 * [Conditional Loading for responsive design](http://24ways.org/2011/conditional-loading-for-responsive-designs/)
+* [Dynamically changing navigation links (next and previous) in Wordpress via AJAX](http://stackoverflow.com/questions/15175020/dynamically-changing-navigation-links-next-and-previous-in-wordpress-via-ajax/15315024#15315024)
+* [Load more posts /stackoverflow](http://stackoverflow.com/questions/14630356/wordpress-php-ajax-load-more-posts)
+* [Fetching posts in Wordpress and ExpressionEngine with jQuery and AJAX](http://www.tyssendesign.com.au/articles/cms/fetching-posts-in-wordpress-expressionengine-with-jquery-ajax/)
+
+LAYOUT
+------
+
 * [justify align and responsive webdesign](http://www.barrelny.com/blog/text-align-justify-and-rwd/)
 * [Masonry,Isotope Ajay load](http://stackoverflow.com/questions/20425863/masonry-isotope-and-ajax-load)
 
-
-
-
-HEADERS
+ISOTOPE
 -------
 
-*[DDS like Header Example](https://coderwall.com/p/ryzmaa)
+* [Keyword based filtering](http://forrst.com/posts/isotope_js_keyword_based_filtering-V6K)
+
+
+
+HEADERS & SLIDESHOWS
+--------------------
+
+* [Respomsive Nav](http://responsive-nav.com/)
+* [Gute Slideshowvariante / Format, Auflösung](http://demo2.designerthemes.com/adapt/)
+* [DDS like Header Example](https://coderwall.com/p/ryzmaa)
