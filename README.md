@@ -6,6 +6,7 @@ Links to Wordpress Tutorials etc.
 
 * [WP Resources/Links](http://iamgw.com/wordpress-resource-links/)
 * [AwfulMedia Responsive Wordpress (Video)](http://www.youtube.com/playlist?list=PLivfKP2ufIK6MfeczAaxnzqtyLX0z76Eu)
+* [Shiba - wordpres programming](http://shibashake.com/wordpress-theme/wordpress-programming)
 
 * [TEMPLATE HIERACHY](http://codex.wordpress.org/Template_Hierarchy)
 * [WP_QUERY /custom select query](http://codex.wordpress.org/Displaying_Posts_Using_a_Custom_Select_Query)
