@@ -8,7 +8,7 @@ Links to Wordpress Tutorials etc.
 * [AwfulMedia Responsive Wordpress (Video)](http://www.youtube.com/playlist?list=PLivfKP2ufIK6MfeczAaxnzqtyLX0z76Eu)
 * [Shiba - wordpres programming](http://shibashake.com/wordpress-theme/wordpress-programming)
 
-* [TEMPLATE HIERACHY](http://codex.wordpress.org/Template_Hierarchy)
+* [TEMPLATE HIERACHY](http://wphierarchy.com/)
 * [WP_QUERY /custom select query](http://codex.wordpress.org/Displaying_Posts_Using_a_Custom_Select_Query)
 * [BRAD FROST RESPONSIVE RESOURCES](http://bradfrost.github.io/this-is-responsive/resources.html)
 * [ATOMIC DESIGN](http://bradfrost.github.io/this-is-responsive/resources.html)
