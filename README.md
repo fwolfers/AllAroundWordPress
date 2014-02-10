@@ -2,10 +2,16 @@ AllAroundWordPress
 ==================
 
 DDS WEBSITE
------------
+===========
 
 To do:
+
+OEMBED:
+------
 * [Oembed-Youtube-Wordpress](http://7degrees.co.uk/blog/using-youtube-oembed-to-get-meta-data/)
+* [featured-image-of-video-from-oembed](http://wordpress.stackexchange.com/questions/70752/featured-image-of-video-from-oembed)
+* [Downoad Video Thumnail and set as feaet. image](http://wpforce.com/download-video-thumbnail-set-featured-image/)
+
 
 Links to Wordpress Tutorials etc.
 ================================
