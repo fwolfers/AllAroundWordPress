@@ -1,6 +1,12 @@
 AllAroundWordPress
 ==================
 
+DDS WEBSITE
+-----------
+
+To do:
+* [http://7degrees.co.uk/blog/using-youtube-oembed-to-get-meta-data/](Oembed-Youtube-Wordpress)
+
 Links to Wordpress Tutorials etc.
 ================================
 
