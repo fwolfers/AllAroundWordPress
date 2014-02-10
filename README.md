@@ -5,7 +5,7 @@ DDS WEBSITE
 -----------
 
 To do:
-* [Oembed-Youtube-Wordpressh](ttp://7degrees.co.uk/blog/using-youtube-oembed-to-get-meta-data/)
+* [Oembed-Youtube-Wordpress](http://7degrees.co.uk/blog/using-youtube-oembed-to-get-meta-data/)
 
 Links to Wordpress Tutorials etc.
 ================================
