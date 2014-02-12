@@ -82,9 +82,14 @@ SOUNDCLOUD
 
 * [Soundcloud API](http://developers.soundcloud.com/docs/api/sdks#)
 * [Stratus Soundcloud player](http://takingbytes.com/using-soundclouds-stratus-player-with-a-responsive-website/)
-* [Soundcloud embend player](view-source:http://www.kelis-official.com/)
+* [Soundcloud embend player --> KELIS](http://www.kelis-official.com/)
 * [Soundmanager2](https://github.com/scottschiller/soundmanager2/)
 * [audio-player.js](http://www.dummymag.com/ui/js/_audio-player.js)
+
+* [coding for good](http://cfg.good.is/challenges/soundcloud-api#)
+* [codeacademy](http://www.codecademy.com/de/courses/javascript-intermediate-en-txGOj/0/1)
+
+
 
 MIXCLOUD
 --------
