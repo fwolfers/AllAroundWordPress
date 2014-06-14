@@ -4,7 +4,7 @@ AllAroundWordPress
 DDS WEBSITE
 ===========
 
-To do:
+To do: NEWS STREAM smoofen.
 
 OEMBED:
 ------
