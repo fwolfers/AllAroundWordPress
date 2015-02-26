@@ -1,11 +1,6 @@
 AllAroundWordPress
 ==================
 
-DDS WEBSITE
-===========
-
-To do: NEWS STREAM smoofen.
-
 OEMBED:
 ------
 * [Oembed-Youtube-Wordpress](http://7degrees.co.uk/blog/using-youtube-oembed-to-get-meta-data/)
